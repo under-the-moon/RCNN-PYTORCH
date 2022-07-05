@@ -1,0 +1,15 @@
+image_size: 112
+backbone: efficientnet_b0
+work_dir: logs
+weights_path: weights
+epochs: 5
+lr: 1e-3
+weight_decay: 1e-2
+pad: 16
+finetune: True
+threshold: .3
+finetune_threshold: .5
+batch_size: 128
+num_positives: 32
+num_negatives: 96
+classes: [ 'airplanes', 'ant' ]
