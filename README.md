@@ -7,15 +7,19 @@
   
 # Desc
   The pytorch re-implement of rcnn. 
+  
   Still Have many problem.
+  
   Only train on small dataset.
+  
   Can be used to better understand rcnn.
-  Can not be used for other purposes.
-
+  
 # Demo
     python detect.py
     
-# result
+# Result
+![image](imgs/detect.png)
+
   
 
 # train data
