@@ -1,5 +1,6 @@
 # RCNN-PYTORCH
-
+  A minimal PyTorch implementation of RCNN, with support for training, inference and evaluation.
+  
 # Paper
   Rich feature hierarchies for accurate object detection and semantic segmentation
   
